@@ -6,14 +6,14 @@ header { display: none; }
 footer { display: none; }
 section {
   width: unset;
-  border-left: 3px solid #ccc;
+  border-left: 5px solid #ccc;
   border-image: linear-gradient(
     to bottom,
     gray 5%,
     #ff0 10%, #ff0 15%,
     red 15%, red 20%,
     teal 20%, teal 25%,
-    azure 25%, azure 30%,
+    azure 25%, palegreen 30%,
     beige 30%, beige 35%,
     bisque 35%, bisque 40%,
     blueviolet 40%, blueviolet 45%,
@@ -29,8 +29,8 @@ section {
     royalblue 90%, royalblue 95%,
     purple 95%
   ) 19;
-  margin-left: -10px;
-  padding-left: 10px;
+  margin-left: -20px;
+  padding-left: 20px;
 }
 table { width: unset; }
 h1 { text-align: center; }
