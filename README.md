@@ -79,26 +79,26 @@ Served in medical transcription billing organization for delivering IT services 
 - Developed many practice websites for doctors
 
 ## Key Projects
-### [Wannafollow](https://www.wannafollow.com/)
+#### [Wannafollow](https://www.wannafollow.com/)
 - Utilised MERN / MEAN stack, Asp.net C#, MVC, and SQL server to develop Splash page website from inception to completion
 
-### RealEstate Engine
+#### RealEstate Engine
 - Utilised MERN (Mongodb, Expree.js, React.js, Node.js) stack to develop real estate engine for listing properties for individual realtors
 
-### [BIC Lighters](https://www.biclighters.com/)
+#### [BIC Lighters](https://www.biclighters.com/)
 - Utilised Node.js, ExpressJS, HTML5, jQuery, and SQL Server to develop BIC Company website for introducing wide range of lighters
 
-### VAZ Book (Final Year Project)
+#### VAZ Book (Final Year Project)
 - Utilised .NET technologies, jQuery, JavaScript to develop Facebook replica with basic functionality like find friends, add/ remove friends, wall management, and Pics/ videos/ notes gallery management
 
 ## Education & Credentials
-### Bachelor of Software Engineering
+#### Bachelor of Software Engineering
 *Bahria University, Islamabad, Pakistan*
 
-### F.Sc Pre-Engineering
+#### F.Sc Pre-Engineering
 *Quaid-e-Azam College, Chaklala, Rawalpindi, Pakistan*
 
-### Certification
+#### Certification
 *AWS Solution Architect, Training*
 
 ## Languages
