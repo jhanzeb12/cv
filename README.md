@@ -1,3 +1,4 @@
+# 
 # Fullstack Developer/ Architect
 Analytical, technically astute professional with extensive experience managing IT services, developing various websites, and serving as application architect.
 
