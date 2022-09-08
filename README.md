@@ -1,5 +1,3 @@
-# 
-# Fullstack Developer/ Architect
 Analytical, technically astute professional with extensive experience managing IT services, developing various websites, and serving as application architect.
 
 Proven track record of developing applications by utilizing JavaScript, jQuery, Node.js, Angular, Angular.js, React.js, Vue.js, Redux, NgRx, Next.js, Nest.js, ExpressJS, Sequelize.js, TypeORM, Mongodb, Pubnub, Socket.io, SignalR, HTML5, CSS3, ASP.Net MVC, .Net, C#, SQL and NoSql databases. Adept at analyzing, designing, developing, maintaining, and implementing enterprise, web, and client-server applications. Demonstrated success in managing and leading various projects from inception to completion within defined scope, quality, and timeline. Instrumental in collaborating in research activities and coding of Artificial Intelligence and decision making. Equipped with strong interpersonal, communication, problem-solving, and team leadership skills.
