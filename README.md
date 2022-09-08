@@ -9,9 +9,9 @@ Proven track record of developing applications by utilizing JavaScript, jQuery, 
 ## Technical Proficiencies
 NodeJS | ExpressJS | Next.js | Nest.js | Angular / AngularJS | React.js | Vue.js | Flux / Redux / NgRx | jQuery | Typescript | JavaScript | AWS | Redis cache | EC2 | Lambda | ELB | EKS | Pubnub | Socket.io | SignalR | microservices | SQL Server | mySQL | Ravendb | Mongo | Sequelize | TypeORM | Asp.NET MVC | WebAPI | C# | HTML | CSS / CSS3 | Knockout.js | Php
 
-## Career Experience
+## Career Experience (~ 12 Years)
 ### Bayt.com / vFairs LLC USA 
-*Solution Architect / Team Lead* <span class="duration">2021 - Present</span>
+*Solution Architect / Team Lead* <span class="duration">(2021 - Present)</span>
 
 Delivering the best quality along with managing the team and infrastructure of application
 - Defined the architecture of new application (Frontend and Backend) and setup the rules for having a consistent code quality
@@ -23,7 +23,7 @@ Delivering the best quality along with managing the team and infrastructure of a
 - **Technologies**: Next.js, ReactJS, Node.js, ExpressJS, TypeORM, PubNub, JavaScript, Docker, Tailwind CSS, Redis, mySql
 
 ### servicePath Pvt. Ltd.
-*Solution Architect / Team Lead*
+*Solution Architect / Team Lead* <span class="duration">(2019 - 2021)</span>
 
 Delivered proactive support to company for onboarding key managed service providers by developing end-to-end modules in a CPQ product and delivered Hyperscale portal within one month. Leverage leadership skills to manage and lead team of six members to achieve desired objectives
 - Developed Hyperscale comparison portal for a leading tenant in Managed-serviced providers sector in less than a month and helped company to win that client in CPQ product sector
@@ -33,7 +33,7 @@ Delivered proactive support to company for onboarding key managed service provid
 - **Technologies**: Node.js, ExpressJS, Angular, KendoUI, JavaScript, jQuery, mongodb (NoSQL), SASS
 
 ### servicePath Pvt. Ltd.
-*Principal Software Engineer*
+*Principal Software Engineer* <span class="duration">(2016 - 2019)</span>
 
 Facilitated communications, technology, and IT sectors by serving as leading provider of CPQ and commercial lifecycle management tools / services
 - Developed and implemented effective reporting engine to cut off **$10K** for Windward is annual subscription along with couple thousand dollars from other services
@@ -42,7 +42,7 @@ Facilitated communications, technology, and IT sectors by serving as leading pro
 - **Technologies**: Node.js, Express.js, AngularJS, KendoUI, JavaScript, jQuery, mySql (Sequelize.js), CSS
 
 ### servicePath Pvt. Ltd.
-*Senior Software Engineer*
+*Senior Software Engineer* <span class="duration">(2014 - 2016)</span>
 
 Facilitated communications, technology, and IT sectors by serving as leading provider of CPQ and commercial lifecycle management tools / services
 - Achieved title of *Star Performer* in the first year by performing with high degree of accuracy
@@ -52,7 +52,7 @@ Facilitated communications, technology, and IT sectors by serving as leading pro
 - **Technologies**: Asp.NET C# MVC, Ravendb, AngularJS, kendoUI, JavaSrcript, jQuery, HTML5, CSS3, Bootstrap
 
 ### Pakistan Revenue Automation Pvt. Ltd.
-*Software Engineer*
+*Software Engineer* <span class="duration">(2012 - 2014)</span>
 
 Served in national tax registration system provider organisation for upgrading old tax-returns to Ajax based
 - Gained yearly review prior to due date, while operating as *Ajax consultant*
@@ -61,7 +61,7 @@ Served in national tax registration system provider organisation for upgrading o
 - **Technologies**: Asp.NET C# MVC, SQL Server, JavaScript, jQuery, HTML5, CSS3
 
 ### IT Curves Pvt. Ltd.
-*Software Engineer*
+*Software Engineer* <span class="duration">(2011 - 2012)</span>
 
 Developed number of websites in Asp.Net C#, MVC, nHibernate, jQuery, JavaScript, HTML5, CSS3
 - [Practice My English](http://www.practicemyenglish247.com/) - Website to buy credits and then use them to learn English from online tutors.
@@ -71,7 +71,7 @@ Developed number of websites in Asp.Net C#, MVC, nHibernate, jQuery, JavaScript,
 - [Web Bourse](http://www.webbourse.co.il/) Website for raising funds
 
 ### MTBC Pvt. Ltd.
-*Software Engineer*
+*Software Engineer* <span class="duration">(2010 - 2011)</span>
 
 Served in medical transcription billing organization for delivering IT services to doctors and hospitals in the USA. Managed development and maintenance of doctors' and hospitals' websites, while overseeing development of modules in EMR software
 - Promoted to position of software engineer within three months by presenting strong analytical qualities
