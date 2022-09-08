@@ -1,6 +1,9 @@
-# Fullstack Developer/ Architect
-Analytical, technically astute professional with extensive experience managing IT services, developing various websites, and serving as application architect.
+# Muhammad Jahanzeb
+*Analytical, technically astute professional with extensive experience managing IT services, developing various websites, and serving as application architect.*
 
+[Email](mailto::jhanzeb12@live.com) | [LinkedIn](https://www.linkedin.com/in/muhammad-jahanzeb-4b287129/) | [Stackoverflow](https://stackoverflow.com/users/4793177/muhammad-zaib) | [Github](https://github.com/jhanzeb12) | Skype: jhanzeb12
+
+## Overview
 Proven track record of developing applications by utilizing JavaScript, jQuery, Node.js, Angular, Angular.js, React.js, Vue.js, Redux, NgRx, Next.js, Nest.js, ExpressJS, Sequelize.js, TypeORM, Mongodb, Pubnub, Socket.io, SignalR, HTML5, CSS3, ASP.Net MVC, .Net, C#, SQL and NoSql databases. Adept at analyzing, designing, developing, maintaining, and implementing enterprise, web, and client-server applications. Demonstrated success in managing and leading various projects from inception to completion within defined scope, quality, and timeline. Instrumental in collaborating in research activities and coding of Artificial Intelligence and decision making. Equipped with strong interpersonal, communication, problem-solving, and team leadership skills.
 
 ## Technical Proficiencies
@@ -27,7 +30,7 @@ Delivered proactive support to company for onboarding key managed service provid
 - Architected the structure of angular project to transition the old CPQ product from angularjs to angular
 - Facilitated customers by providing relevant information regarding organizational services through online meetings
 - Managed team of 6 people
-- Technologies: Node.js, ExpressJS, Angular, KendoUI, JavaScript, jQuery, mongodb (NoSQL), SASS
+- **Technologies**: Node.js, ExpressJS, Angular, KendoUI, JavaScript, jQuery, mongodb (NoSQL), SASS
 
 ### servicePath Pvt. Ltd.
 *Principal Software Engineer*
@@ -36,7 +39,7 @@ Facilitated communications, technology, and IT sectors by serving as leading pro
 - Developed and implemented effective reporting engine to cut off **$10K** for Windward is annual subscription along with couple thousand dollars from other services
 - Created Theming engine to setup new tenant quickly and thus slashing Tenant setup cost by **80%**
 - Oversaw development of end-to-end modules in software with full responsibility for bottom-line factors
-- Technologies: Node.js, Express.js, AngularJS, KendoUI, JavaScript, jQuery, mySql (Sequelize.js), CSS
+- **Technologies**: Node.js, Express.js, AngularJS, KendoUI, JavaScript, jQuery, mySql (Sequelize.js), CSS
 
 ### servicePath Pvt. Ltd.
 *Senior Software Engineer*
@@ -46,7 +49,7 @@ Facilitated communications, technology, and IT sectors by serving as leading pro
 - Developed a front-end framework (skin framework) to reduce learning curve of AngularJS for other developers in team and to build the UI quickly for startup
 - Responsible for building end-to-end modules in CPQ product
 - Reduced months efforts to weeks to convert Silverlight application to HTML5/ AngularJS based application
-- Technologies: Asp.NET C# MVC, Ravendb, AngularJS, kendoUI, JavaSrcript, jQuery, HTML5, CSS3, Bootstrap
+- **Technologies**: Asp.NET C# MVC, Ravendb, AngularJS, kendoUI, JavaSrcript, jQuery, HTML5, CSS3, Bootstrap
 
 ### Pakistan Revenue Automation Pvt. Ltd.
 *Software Engineer*
@@ -55,7 +58,7 @@ Served in national tax registration system provider organisation for upgrading o
 - Gained yearly review prior to due date, while operating as *Ajax consultant*
 - Enhanced knowledge of front-end technologies and delivered proactive support to front-end developers for ensuring seamless workflow
 - Developed end-to-end modules of ITR product
-- Technologies: Asp.NET C# MVC, SQL Server, JavaScript, jQuery, HTML5, CSS3
+- **Technologies**: Asp.NET C# MVC, SQL Server, JavaScript, jQuery, HTML5, CSS3
 
 ### IT Curves Pvt. Ltd.
 *Software Engineer*
@@ -74,9 +77,6 @@ Served in medical transcription billing organization for delivering IT services 
 - Promoted to position of software engineer within three months by presenting strong analytical qualities
 - Learned jQuery and developed many jQuery plugins and got the title of *jQuery Expert* in less than a month
 - Developed many practice websites for doctors
-
-## Profiles
-[LinkedIn](https://www.linkedin.com/in/muhammad-jahanzeb-4b287129/) | [Stackoverflow](https://stackoverflow.com/users/4793177/muhammad-zaib) | [Github](https://github.com/jhanzeb12) | Skype: jhanzeb12
 
 ## Key Projects
 ### [Wannafollow](https://www.wannafollow.com/)
