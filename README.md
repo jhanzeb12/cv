@@ -10,8 +10,8 @@ Proven track record of developing applications by utilizing JavaScript, jQuery, 
 NodeJS | ExpressJS | Next.js | Nest.js | Angular / AngularJS | React.js | Vue.js | Flux / Redux / NgRx | jQuery | Typescript | JavaScript | AWS | Redis cache | EC2 | Lambda | ELB | EKS | Pubnub | Socket.io | SignalR | microservices | SQL Server | mySQL | Ravendb | Mongo | Sequelize | TypeORM | Asp.NET MVC | WebAPI | C# | HTML | CSS / CSS3 | Knockout.js | Php
 
 ## Career Experience
-### Bayt.com / vFairs LLC USA
-*Solution Architect / Team Lead*       
+### Bayt.com / vFairs LLC USA 
+*Solution Architect / Team Lead* <span class="duration">2021 - Present</span>
 
 Delivering the best quality along with managing the team and infrastructure of application
 - Defined the architecture of new application (Frontend and Backend) and setup the rules for having a consistent code quality
@@ -20,7 +20,7 @@ Delivering the best quality along with managing the team and infrastructure of a
 - Managing frontend team and doing the code reviews
 - Facilitating customers by providing relevant information regarding organizational services through online meetings
 - Managing team of 10 people (4 senior, 4 mid-level and 2 junior resources)
-- Technologies: Next.js, ReactJS, Node.js, ExpressJS, TypeORM, PubNub, JavaScript, Docker, Tailwind CSS, Redis, mySql
+- **Technologies**: Next.js, ReactJS, Node.js, ExpressJS, TypeORM, PubNub, JavaScript, Docker, Tailwind CSS, Redis, mySql
 
 ### servicePath Pvt. Ltd.
 *Solution Architect / Team Lead*
