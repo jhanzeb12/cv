@@ -4,11 +4,38 @@
 @import "{{ site.theme }}";
 header { display: none; }
 footer { display: none; }
-section { width: unset; }
+section {
+  width: unset;
+  border-left: 3px solid #ccc;
+  border-image: linear-gradient(
+    to bottom,
+    gray 5%,
+    #ff0 10%, #ff0 15%,
+    red 15%, red 20%,
+    teal 20%, teal 25%,
+    azure 25%, azure 30%,
+    beige 30%, beige 35%,
+    bisque 35%, bisque 40%,
+    blueviolet 40%, blueviolet 45%,
+    chartreuse 45%, chartreuse 50%,
+    crimson 50%, crimson 55%,
+    cyan 55%, cyan 60%,
+    steelblue 60%, steelblue 65%,
+    turqoise 65%, turqoise 70%,
+    violet 70%, violet 75%,
+    tan 75%, tan 80%,
+    springgreen 80%, springgreen 85%,
+    salmon 85%, salmon 90%,
+    royalblue 90%, royalblue 95%,
+    purple 95%
+  ) 5;
+  margin-left: -10px;
+  padding-left: 10px;
+}
 table { width: unset; }
 h1 { text-align: center; }
 h2 {
   display: inline-block;
-  border-bottom: 1px solid #d4d4d4;
+  border-bottom: 3px solid #d4d4d4;
   border-image: linear-gradient(to right, grey 25%, yellow 25%, yellow 50%,red 50%, red 75%, teal 75%) 5;
 }
